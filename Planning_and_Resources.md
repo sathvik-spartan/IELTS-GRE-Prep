@@ -17,10 +17,6 @@
 2. E2 IELTS – Fantastic for Listening and Writing.
 3. AcademicEnglishHelp / GeneralIELTSHelp – Full-length mock test videos.
 
-### Apps
-1. IELTS Prep by British Council
-2. Magoosh IELTS
-3. IELTS Practice Band 9
 
 # GRE Preparation Resources
 ### 🧠 Best Books
@@ -32,11 +28,6 @@
 1. Magoosh GRE – Focused playlists for Verbal, Quant, and AWA.
 2. GregMat – Clear and concise explanation of concepts.
 3. Manhattan Prep GRE – Deep dives into tough questions.
-
-### Apps
-1. Magoosh GRE Prep App
-2. Ready4GRE
-3. GRE Vocabulary Flashcards (by Magoosh)
 
 ### Top Websites
 1. Magoosh GRE Blog – Study plans, tips, vocab, and videos.
