@@ -1,6 +1,3 @@
-# My Personal Google Drive link
-- https://drive.google.com/drive/folders/1-I0zc6kGrhaHLJ4lNjrSkd09CR2Fyntt
-
 # IELTS Preparation Resources
 ### Best Books
 1. The Official Cambridge Guide to IELTS – Great for both Academic & General.
