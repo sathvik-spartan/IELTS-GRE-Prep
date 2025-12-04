@@ -1,16 +1,16 @@
 # IELTS-GRE-Prep
 An 8 week plan for IELTS and GRE preparation
 
-# 🎯 Combined IELTS + GRE 8-Week Study Plan
+# Combined IELTS + GRE 8-Week Study Plan
 
-## ⏰ Weekly Layout
+## Weekly Layout
 - **Monday–Friday**: Focused IELTS + GRE split
 - **Saturday**: Full-length mock test (alternate IELTS & GRE)
 - **Sunday**: Review + light practice or rest
 
 ---
 
-## ✅ Week 1: Foundation Building
+## Week 1: Foundation Building
 ### IELTS
 - Understand test format (Listening, Reading, Writing, Speaking)
 - Practice Listening Section 1–2
@@ -25,7 +25,7 @@ An 8 week plan for IELTS and GRE preparation
 
 ---
 
-## ✅ Week 2: Core Skills
+## Week 2: Core Skills
 ### IELTS
 - Listening Section 3–4 practice
 - Writing Task 2 (opinion essays) format
@@ -39,7 +39,7 @@ An 8 week plan for IELTS and GRE preparation
 
 ---
 
-## ✅ Week 3: Speed + Comprehension
+## Week 3: Speed + Comprehension
 ### IELTS
 - Skimming/Scanning strategy for Reading
 - 2 full Reading passages
@@ -53,7 +53,7 @@ An 8 week plan for IELTS and GRE preparation
 
 ---
 
-## ✅ Week 4: Integration + Review
+## Week 4: Integration + Review
 ### IELTS
 - Full Listening practice test
 - Writing Task 1 (Compare data)
@@ -69,7 +69,7 @@ An 8 week plan for IELTS and GRE preparation
 
 ---
 
-## ✅ Week 5: Mid-Point Practice Boost
+## Week 5: Mid-Point Practice Boost
 ### IELTS
 - Mix Reading + Listening (alternate days)
 - Time-bound Writing Tasks 1 & 2
@@ -84,7 +84,7 @@ An 8 week plan for IELTS and GRE preparation
 
 ---
 
-## ✅ Week 6: Simulation & Feedback
+## Week 6: Simulation & Feedback
 ### IELTS
 - Speaking fluency (record + playback)
 - Reading: T/F/NG questions
@@ -100,7 +100,7 @@ An 8 week plan for IELTS and GRE preparation
 
 ---
 
-## ✅ Week 7: Polishing Strengths
+## Week 7: Polishing Strengths
 ### IELTS
 - Alternate Speaking + Writing each day
 - Final Listening & Reading tests
@@ -114,14 +114,14 @@ An 8 week plan for IELTS and GRE preparation
 
 ---
 
-## ✅ Week 8: Final Prep
+## Week 8: Final Prep
 - Review all Writing formats and vocab
 - Take final full-length IELTS & GRE mid-week
 - Last 2 days: Rest, light revision, confidence boost
 
 ---
 
-## 📦 Tools & Resources
+## Tools & Resources
 
 | Purpose         | IELTS                           | GRE                            |
 |-----------------|----------------------------------|---------------------------------|
@@ -133,5 +133,5 @@ An 8 week plan for IELTS and GRE preparation
 
 ---
 
-> 💡 Track your progress with ✅ checkboxes or bullet points each day. Stay consistent, review mistakes, and build test-day confidence!
+> Track your progress with ✅ checkboxes or bullet points each day. Stay consistent, review mistakes, and build test-day confidence!
 
